@@ -7,10 +7,10 @@ Language: Java.
 
 | Week | Week Begin | Subject | Assessment |
 | :---: | :---: | ---- | ---- |
-| 01 | 26 Sep | Admin, VSC setup, Variables, Main, IO | | 
-| 02 | 03 Oct | VSC Selection & Iteration | | 
-| 03 | 10 Oct | VSC OOP | | 
-| 04 | 17 Oct | VSC ArrayLists | | 
+| 01 | 26 Sep | VSC-Basics: Main, IO, | | 
+| 02 | 03 Oct | VSC-Conditions: Selection & Iteration | | 
+| 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | | 
+| 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | | 
 | 05 | 24 Oct | Workshop | | 
 | 06 | 31 Oct | GF-Pyramid | **CW1** | 
 | 07 | 07 Nov | GF-Crab | | 
