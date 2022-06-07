@@ -8,7 +8,7 @@ Language: Java.
 | Week | Week Begin | Subject | Assessment |
 | :---: | :---: | ---- | ---- |
 | 01 | 26 Sep | VSC-Basics: Main, IO, | | 
-| 02 | 03 Oct | VSC-Conditions: Selection & Iteration | | 
+| 02 | 03 Oct | VSC-Conditionals: Selection & Iteration | | 
 | 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | | 
 | 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | | 
 | 05 | 24 Oct | Workshop | | 
