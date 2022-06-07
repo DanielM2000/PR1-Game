@@ -12,13 +12,13 @@ Language: Java.
 | 03 | 10 Oct | VSC OOP | | 
 | 04 | 17 Oct | VSC ArrayLists | | 
 | 05 | 24 Oct | Workshop | | 
-| 06 | 31 Oct | **CW1** | **CW1** | 
-| 07 | 07 Nov | GreenFoot 1 | | 
-| 08 | 14 Nov | GreenFoot 2 | | 
-| 09 | 21 Nov | TCA Revision: QUIZ + selected exercises? | |  
+| 06 | 31 Oct | GF-Pyramid | **CW1** | 
+| 07 | 07 Nov | GF-Crab | | 
+| 08 | 14 Nov | GF-Breakout | | 
+| 09 | 21 Nov | TCA Revision: QUIZ | |  
 | 10 | 28 Nov | **TCA1** | **TCA1** |
-| 11 | 05 Dec | TCA1 FEEDBACK + Greenfoot 3 | | 
-| 12 | 12 Dec | Greenfoot 4 | |  
+| 11 | 05 Dec | TCA1 FEEDBACK + GF-Game | | 
+| 12 | 12 Dec | Workshop | |  
 | **3** | **Weeks** | **CHRISTMAS VACATION** | **CHRISTMAS VACATION** | 
 | 13 | 09 Jan | PR1 Game/Code Walkthrough | |   
 | 14 | 16 Jan | PR1 Game/Code Walkthrough  | | 
