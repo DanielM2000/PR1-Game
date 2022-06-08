@@ -1,1 +1,1 @@
-Git-and-Github
+[Git-and-Github](https://github.com/BNU-CO452/Java-Apps/wiki/Git-and-Github)
