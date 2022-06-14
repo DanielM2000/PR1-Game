@@ -14,3 +14,5 @@
 7. Now modify your solution to question 6, and instead ask the user to type in their date of birth. The program should then calculate how many days old they (from today's date). Consider how you will store the components of the users date of birth (DOB) - which consists of day, month and year.  
 
 8. Write a program that will convert the number of feet entered to miles. Note: there are 5280 feet to 1 mile. 
+
+9. Write a program that will calculate the how much interest will paid on money invested in a savings account. The fixed interest rate is 1%. The user should enter the deposit amount and the program should display how much money the user will have after the interest is paid at the end of the year. 
