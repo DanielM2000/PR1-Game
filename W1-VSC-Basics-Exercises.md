@@ -1,7 +1,7 @@
 
-1. Within the Main.java file, add a line of code within the main method that will output the text "Hello World" to the screen. Compile and execute the program to check that it works as required. Commit and push your changes to Main.java to your repository.
+1. Within the Main.java file, add a line of code within the main method that will output the text "Hello World!" to the screen. Compile and execute the program to check that it works as required. Commit and push your changes to Main.java to your repository.
 
-2. Now amend Main.java and add code that will enable the program to enter your name and store in a variable, and then output to the screen
+2. Now amend Main.java to enable the program to enter a user's name and store in a variable. Change the output of "Hello World!" so that the program outputs a personal greeting to the name entered (for example "Hello Simon!"). 
  
 3. Design a program that asks the user to enter values for the length and height of a rectangle and then outputs the perimeter and area of the rectangle to the screen.
 
