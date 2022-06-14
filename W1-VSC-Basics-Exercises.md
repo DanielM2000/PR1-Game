@@ -13,4 +13,4 @@
 
 7. Now modify your solution to question 6, and instead ask the user to type in their date of birth. The program should then calculate how many days old they (from today's date). Consider how you will store the components of the users date of birth (DOB) - which consists of day, month and year.  
 
-7. Design a program that allows a student grade (letters between 'A' and 'F') to be entered - which data type should be used? 
+8. Write a program that will convert the number of feet entered to miles. Note: there are 5280 feet to 1 mile. 
