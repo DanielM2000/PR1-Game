@@ -5,7 +5,7 @@
  
 3. Design a program that asks the user to enter values for the length and height of a rectangle and then outputs the perimeter and area of the rectangle to the screen.
 
-4. What is the difference between the Main.java file and the main.class file? 
+4. Write a program that calculates and displays the average of two numbers entered. Check this program works for whole and decimal values.
 
 5. Write a program that allows the user to enter two integer values. The program should then output the original order they were entered, then output the values in reverse order (swapped). 
 
