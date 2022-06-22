@@ -14,8 +14,9 @@
   10 x 7 = 70  
   11 x 7 = 77   
   12 x 7 = 84   
-  5. Now extend the previous program to ask the user to choose which number they would like to see (for example, they input 5 to then see the five-times-table or they enter 9 for the nine-times-table).   
-  6. Write a program that asks the user to enter an exam mark (0-100). Write conditional statements to print out the grade they would achieve from this mark.  
+  5. Now extend the previous program to ask the user to choose which number they would like to see. For example, the user would input 5 to then see the five-times-table or could then enter 9 for the nine-times-table. 
+  6. Extend the previous program to include a 'do while' loop that asks the user if they want to restart the program (to see a different times table). If the user does not wish to continue, then the program should display an appropriate 'goodbye' message.       
+  7. Write a new program that asks the user to enter an exam mark (0-100). Write conditional statements to print out the grade they would achieve from this mark.  
   7. Write a program that will print only even numbers from a loop that repeats 10 times.       
   8. Amend exercise 5 from Week 1, which requires feet and miles to be output.   
   9.   
