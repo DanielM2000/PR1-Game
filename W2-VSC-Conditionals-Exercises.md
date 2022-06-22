@@ -6,7 +6,7 @@
   2 x 7 = 14  
   3 x 7 = 21  
   ... 
-  10 x 7 = 70
+  10 x 7 = 70  
   11 x 7 = 77   
   12 x 7 = 84   
   5. Now extend the previous program to ask the user to choose which number they would like to see (for example, they input 5 to then see the five-times-table or they enter 9 for the nine-times-table).   
