@@ -1,1 +1,0 @@
-This is the assignment brief for CW1
