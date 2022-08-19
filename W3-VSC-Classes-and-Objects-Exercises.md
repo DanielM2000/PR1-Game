@@ -1,4 +1,4 @@
-1. Declare a Student class with attributes for ID (of data type int) and name (of type String)    
+1. Declare a Student class with attributes for ID (of data type int) and name (of type String).     
   2. Now define a constructor that will assign values that are passed in for ID and name, to the class fields of name and ID.   
   3. Define a print method that will output the values for these ID and name attributes.   
   4. Now instantiate an object of the Student class (within main), and pass suitable values for student name (you could use your first name) and an ID number (could be your eight digit ID, or something similar) to the constructor.   
