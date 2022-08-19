@@ -19,4 +19,3 @@
   7. Write a new program that asks the user to enter an exam mark (0-100). Write conditional statements to print out the grade they would achieve from this mark.  
   7. Write a program that will print only even numbers from a loop that repeats 10 times.       
   8. Amend exercise 5 from Week 1, which requires feet and miles to be output.   
-  9.   
