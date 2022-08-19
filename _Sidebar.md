@@ -5,7 +5,7 @@
 #### Exercises
 [Week 1 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W1-VSC-Basics-Exercises)     
 [Week 2 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W2-VSC-Conditionals-Exercises)    
-[Week 3 Exercises]()    
+[Week 3 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W3-VSC-Classes-and-Objects-Exercises)    
 [Week 4 Exercises]()    
 [Week 5 Exercises]()
 #### Games
