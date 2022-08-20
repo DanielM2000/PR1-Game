@@ -11,7 +11,7 @@ Language: Java.
 | 02 | 03 Oct | VSC-Conditionals: Selection & Iteration | | 
 | 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | | 
 | 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | | 
-| 05 | 24 Oct | Workshop | | 
+| 05 | 24 Oct | Workshop and Consolidation | | 
 | 06 | 31 Oct | GF-Pyramid | **CW1** | 
 | 07 | 07 Nov | GF-Crab | | 
 | 08 | 14 Nov | GF-Breakout | | 
