@@ -17,8 +17,8 @@ Language: Java.
 | 08 | 14 Nov | GF-Breakout | | 
 | 09 | 21 Nov | TCA Revision: QUIZ | |  
 | 10 | 28 Nov | **TCA1** | **TCA1** |
-| 11 | 05 Dec | TCA1 FEEDBACK + GF-Game | | 
-| 12 | 12 Dec | Workshop | |  
+| 11 | 05 Dec | TCA1 FEEDBACK + GF/BlueJ Game Demo (Zuul?) | | 
+| 12 | 12 Dec | PyGame Demo? + Workshop | |  
 | **3** | **Weeks** | **CHRISTMAS VACATION** | **CHRISTMAS VACATION** | 
 | 13 | 09 Jan | PR1 Game/Code Walkthrough | |   
 | 14 | 16 Jan | PR1 Game/Code Walkthrough  | | 
