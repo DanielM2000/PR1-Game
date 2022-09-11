@@ -5,7 +5,7 @@ There are also three main professional IDEs (Integrated Development Environments
 2. Apache NetBeans 12.1
 3. Eclipse 
   
-They all support Git and GitHub, see.  [What Will Be The Best Java IDE’s in 2020?](https://www.geeksforgeeks.org/what-will-be-the-best-java-ides-in-2020/) or [Best Java IDE 2020 | Most Popular Java IDE](https://hackr.io/blog/best-java-ide)
+They all support Git and GitHub which is used for version control.
 
 ## Visual Studio Code (75%)
 Visual Studio Code is now by far the most popular Integrated Development Environment (IDE) with 75% of professional coders preferring it.  Visual Studio comes next with 30% preferring it (but cannot be used with Java) and then IntelliJ is third preferred by 29% of professionals.
