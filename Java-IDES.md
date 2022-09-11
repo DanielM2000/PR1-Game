@@ -2,8 +2,8 @@
 Visual Studio Code can be used to develop applications in Java and many other languages.
 There are also three main professional IDEs (Integrated Development Environments) specifically for Java:-
 1. IntelliJ IDEA
-2. Apache NetBeans 12.1
 3. Eclipse 
+2. NetBeans
   
 They all support Git and GitHub which is used for version control.
 
