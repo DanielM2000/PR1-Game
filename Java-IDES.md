@@ -7,10 +7,11 @@ There are also three main professional IDEs (Integrated Development Environments
   
 They all support Git and GitHub which is used for version control.
 
+[Stack Overflow Survey 2022](https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof)     
+
 ## Visual Studio Code (75%)
 Visual Studio Code is now by far the most popular Integrated Development Environment (IDE) with 75% of professional coders preferring it.  Visual Studio comes next with 30% preferring it (but cannot be used with Java) and then IntelliJ is third preferred by 29% of professionals.
 
-[Stack Overflow Survey 2022](https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof)     
 [How to Install & Run Java in Visual Studio Code](https://www.youtube.com/watch?v=fbyobdxDQno&ab_channel=TutorialBrain)
 
 ## [JetBrains IntelliJ IDEA (29%)](https://www.jetbrains.com/idea/) or 
