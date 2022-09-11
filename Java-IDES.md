@@ -1,12 +1,16 @@
-# The Best Java IDEs for 2020
-There are three main professional IDEs (Integrated Development Environments) for Java:-
+# The Best Java IDEs for 2022
+Visual Studio Code can be used to develop applications in Java and many other languages.
+There are also three main professional IDEs (Integrated Development Environments) specifically for Java:-
 1. IntelliJ IDEA
 2. Apache NetBeans 12.1
 3. Eclipse 
   
 They all support Git and GitHub, see.  [What Will Be The Best Java IDE’s in 2020?](https://www.geeksforgeeks.org/what-will-be-the-best-java-ides-in-2020/) or [Best Java IDE 2020 | Most Popular Java IDE](https://hackr.io/blog/best-java-ide)
 
-#### [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) or 
+## Visual Studio Code
+[How to Install & Run Java in Visual Studio Code](https://www.youtube.com/watch?v=fbyobdxDQno&ab_channel=TutorialBrain)
+
+## [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) or 
 ![IntelliJ IDEA](https://github.com/BNU-CO452/BlueJ-Apps/blob/master/images/IntelliJ_IDEA.jpg)   
 
 IntelliJ can generate UML Class diagrams from Java code, but unfortunately the free community edition of IntelliJ does not contain that feature. 
