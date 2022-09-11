@@ -8,6 +8,8 @@ There are also three main professional IDEs (Integrated Development Environments
 They all support Git and GitHub, see.  [What Will Be The Best Java IDE’s in 2020?](https://www.geeksforgeeks.org/what-will-be-the-best-java-ides-in-2020/) or [Best Java IDE 2020 | Most Popular Java IDE](https://hackr.io/blog/best-java-ide)
 
 ## Visual Studio Code
+Visual Studio Code is now by far the most popular Integrated Development Environment (IDE) with 75% of professional coders preferring it.  Visual Studio comes next with 30% preferring it (but cannot be used with Java) and then IntelliJ is third preferred by 29% of professionals.
+[Stack Overflow Survey 2022](https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof)     
 [How to Install & Run Java in Visual Studio Code](https://www.youtube.com/watch?v=fbyobdxDQno&ab_channel=TutorialBrain)
 
 ## [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) or 
@@ -22,12 +24,14 @@ The video below is only 4 minutes and will give you a good idea how different a 
 [Using Git in IntelliJ](https://www.youtube.com/watch?v=uUzRMOCBorg&t=2s&ab_channel=LaunchCode) is a good introduction into putting your IntelliJ project under Git   
 Unfortunately it does not match the current version of IntelliJ so you may need to read [Setting up a Git Repository](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#check_project_status)   
  
-#### JDeveloper by Oracle
+## JDeveloper by Oracle
 ![JDeveloper IDE](https://github.com/BNU-CO452/BlueJ-Apps/blob/master/images/JBuilder%20IDE.jpg)
 This java IDE is freely available, and has a built in set of diagrams including Class Diagrams and Use Case diagrams    
 [UML and Java Modelling in JDeveloper](https://www.youtube.com/watch?v=cQ4a3L75eJM&ab_channel=ShayJDev)
-#### [Apache NetBeans 12.1](https://netbeans.org/features/index.html)
+
+## [Apache NetBeans 12.1](https://netbeans.org/features/index.html)
 Netbeans has a Visual Paradigm plugin for UML however you have to have a licence for Visual Paradigm Standard edition or higher.
-#### [Eclipse](https://www.eclipse.org/eclipseide/)
+
+## [Eclipse](https://www.eclipse.org/eclipseide/)
 Eclipse is free, and has a number of Git and UML plugins that are also free.  I have moved App05 to Eclipse and ran it successfully in Eclipse with only one change to the main method (it requires String [] args as a parameter to main()).  You might like to watch the video below to get a feel for using Eclipse as opposed to BlueJ.  It looks the best choice of IDE which includes reverse engineering of Java to UML.   
 [Creating Your First Java Eclipse Project](https://www.youtube.com/watch?v=S37y-BHzTBc&ab_channel=CraigPiercy)
