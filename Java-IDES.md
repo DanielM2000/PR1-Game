@@ -38,6 +38,6 @@ Netbeans has a Visual Paradigm plugin for UML however you have to have a licence
 This java IDE is freely available from Oracle who now own Java, and has a built in set of diagrams including Class Diagrams and Use Case diagrams    
 [UML and Java Modelling in JDeveloper](https://www.youtube.com/watch?v=cQ4a3L75eJM&ab_channel=ShayJDev)
 
-## [BlueJ](https://www.bluej.org/)
-This is an educational tool develop by Kings College London to teach Java programming in an Object-Oriented way.  It is not used professionaly
+## [BlueJ](https://www.bluej.org/) and [Greenfoot](https://www.greenfoot.org/home)
+These are educational tools develop by Kings College London to teach Java programming in an Object-Oriented way.  They are not used professionaly
 
