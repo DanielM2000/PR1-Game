@@ -1,8 +1,3 @@
-## JDeveloper by Oracle ()
-![JDeveloper IDE](https://github.com/BNU-CO452/BlueJ-Apps/blob/master/images/JBuilder%20IDE.jpg)
-This java IDE is freely available, and has a built in set of diagrams including Class Diagrams and Use Case diagrams    
-[UML and Java Modelling in JDeveloper](https://www.youtube.com/watch?v=cQ4a3L75eJM&ab_channel=ShayJDev)
-
 # The Best Java IDEs for 2022
 Visual Studio Code can be used to develop applications in Java and many other languages.
 There are also three main professional IDEs (Integrated Development Environments) specifically for Java:-
