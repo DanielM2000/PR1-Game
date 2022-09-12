@@ -14,7 +14,7 @@ Visual Studio Code is now by far the most popular Integrated Development Environ
 
 [How to Install & Run Java in Visual Studio Code](https://www.youtube.com/watch?v=fbyobdxDQno&ab_channel=TutorialBrain)
 
-<img src="https://github.com/BNU-CO452/Java-Apps/blob/main/images/vcs.png" width="900" />  
+<img src="https://github.com/BNU-CO452/Java-Apps/blob/main/images/vsc.png" width="900" />  
 
 ## [JetBrains IntelliJ IDEA (29%)](https://www.jetbrains.com/idea/) 
 
