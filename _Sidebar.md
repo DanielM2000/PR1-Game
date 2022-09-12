@@ -13,7 +13,8 @@
 #### Games
 [GF-Pyramid]()    
 [GF-Crab Game]()    
-[GF-Breakout]()
+[GF-Breakout]()     
+[Python Games](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)
 #### Resources
 [Git-and-Github](https://github.com/BNU-CO452/Java-Apps/wiki/Git-and-Github)     
 [Java IDEs](https://github.com/BNU-CO452/Java-Apps/wiki/Java-IDES)      
