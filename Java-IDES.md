@@ -23,8 +23,9 @@ Students and teachers using their university email addresses can create an accou
 ![UML Class Diagram](https://github.com/BNU-CO452/BlueJ-Apps/blob/master/images/App05-classesIJ.jpg)
 
 The video below is only 4 minutes and will give you a good idea how different a professional IDE is compared to BlueJ.    
+
 [Running IntelliJ IDEA for the first time](https://www.youtube.com/watch?v=c0efB_CKOYo&ab_channel=IntelliJIDEAbyJetBrains)    
-[Using Git in IntelliJ](https://www.youtube.com/watch?v=uUzRMOCBorg&t=2s&ab_channel=LaunchCode) is a good introduction into putting your IntelliJ project under Git   
+[Basic Git and GitHub with IntelliJ](https://www.youtube.com/watch?v=mM_drNdss4c&ab_channel=FranciscoIacobelli) is a good introduction into putting your IntelliJ project under Git   
 Unfortunately it does not match the current version of IntelliJ so you may need to read [Setting up a Git Repository](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#check_project_status)   
 
 ## [Eclipse (12%)](https://www.eclipse.org/eclipseide/)
