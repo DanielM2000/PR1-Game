@@ -19,3 +19,4 @@
 [Git-and-Github](https://github.com/BNU-CO452/Java-Apps/wiki/Git-and-Github)     
 [Java IDEs](https://github.com/BNU-CO452/Java-Apps/wiki/Java-IDES)      
 [Java Exam](https://www.itexams.com/exam/98-388)   
+[Code Quality](https://github.com/BNU-CO452/Java-Apps/wiki/Code-Quality)
