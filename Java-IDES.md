@@ -16,7 +16,7 @@ Visual Studio Code is now by far the most popular Integrated Development Environ
 
 ## [JetBrains IntelliJ IDEA (29%)](https://www.jetbrains.com/idea/) 
 
-![IntelliJ IDEA](https://github.com/BNU-CO452/BlueJ-Apps/blob/master/images/IntelliJ_IDEA.jpg)   
+<img src="https://github.com/BNU-CO452/Java-Apps/blob/main/images/IntelliJ.png" width="600" />  
 
 IntelliJ can generate UML Class diagrams from Java code, but unfortunately the free community edition of IntelliJ does not contain that feature. 
 Students and teachers using their university email addresses can create an account and download the full Ultimate edition which can create classes diagrams as shown below.   
