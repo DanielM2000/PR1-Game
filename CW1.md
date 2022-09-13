@@ -3,7 +3,7 @@
 
 # Marking Criteria for CW1 
 
-| Fail | Fail | Pass | Pass | Pass || Pass |
+| Fail | Fail | Pass | Pass | Pass | Pass |
 | :---: | :---: | ---- | ---- | ---- | ---- |
 
 
