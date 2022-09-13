@@ -3,7 +3,7 @@
 
 # Marking Criteria for CW1 
 
-| Week | Week Begin | Lecture | Assessment |
+| Fail | Fail | Pass | Pass |
 | :---: | :---: | ---- | ---- |
 
 
