@@ -9,7 +9,7 @@
 [Week 2 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W2-VSC-Conditionals-Exercises)    
 [Week 3 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W3-VSC-Classes-and-Objects-Exercises)    
 [Week 4 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W4-VSC-Collection-Exercises)    
-[Week 5 Exercises]()
+[Week 5 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W5-VSC-Consolidation-Exercises)
 #### Games
 [GF-Pyramid]()    
 [GF-Crab Game]()    
