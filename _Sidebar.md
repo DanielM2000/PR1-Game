@@ -1,8 +1,8 @@
 [🏠 Home Page](https://github.com/BNU-CO452/Java-Apps/wiki)     
 [📋 Module Scheme](https://github.com/BNU-CO452/Java-Apps/wiki/Module-Scheme)      
 [👨‍💻 CW1 Assessment](https://github.com/BNU-CO452/Java-Apps/wiki/CW1)     
-[🖥️ TCA1 Assessment]()     
-[🧑🏽‍🏫 PR1 Assessment]()       
+[🖥️ TCA1 Assessment](https://github.com/BNU-CO452/Java-Apps/wiki/TCA1)     
+[🧑🏽‍🏫 PR1 Assessment](https://github.com/BNU-CO452/Java-Apps/wiki/PR1)       
 
 #### Exercises
 [Week 1 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W1-VSC-Basics-Exercises)     
