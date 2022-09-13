@@ -3,7 +3,7 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 
 | Week | Week Begin | Lecture | Assessment |
 | :---: | :---: | ---- | ---- |
-| 01 | 26 Sep | VSC-Basics: Main, IO, | | 
+| 01 | 26 Sep | VSC-Basics: Main & IO | | 
 | 02 | 03 Oct | VSC-Conditionals: Selection & Iteration | | 
 | 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | | 
 | 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | | 
