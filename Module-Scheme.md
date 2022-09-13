@@ -5,7 +5,7 @@ Language: Java.
   IDE: VSC (but could be any IDE that runs Java programs)
 
 
-| Week | Week Begin | Subject | Assessment |
+| Week | Week Begin | Lecture | Assessment |
 | :---: | :---: | ---- | ---- |
 | 01 | 26 Sep | VSC-Basics: Main, IO, | | 
 | 02 | 03 Oct | VSC-Conditionals: Selection & Iteration | | 
@@ -16,7 +16,7 @@ Language: Java.
 | 07 | 07 Nov | GF-Crab | | 
 | 08 | 14 Nov | GF-Breakout | | 
 | 09 | 21 Nov | TCA Revision: QUIZ | |  
-| 10 | 28 Nov | **TCA1** | **TCA1** |
+| 10 | 28 Nov | No lecture | **TCA1** |
 | 11 | 05 Dec | TCA1 FEEDBACK + GF/BlueJ Game Demo (Zuul?) | | 
 | 12 | 12 Dec | PyGame Demo? + Workshop | |  
 | **3** | **Weeks** | **CHRISTMAS VACATION** | **CHRISTMAS VACATION** | 
