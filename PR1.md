@@ -1,6 +1,9 @@
 # Assessment Instructions for PR1
 a
 
+✅ LO3: Utilise best practice and professional conventions when making effective use of an appropriate environment to deliver good quality code.
+✅ LO4: Apply a structured and systematic approach to developing and presenting a solution to meet the requirements of a complex project.
+
 # Marking Criteria for PR1 
 
 |  | Fail | Fail | Pass | Pass | Pass | Pass | Pass |
