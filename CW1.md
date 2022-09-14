@@ -1,6 +1,7 @@
 # Assessment Brief for CW1 
 a
 
+✅ LO1: Design, implement and test programs to solve simple problems.
 
 # Marking Criteria for CW1 
 
