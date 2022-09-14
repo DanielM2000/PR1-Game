@@ -1,4 +1,8 @@
 # Assessment Instructions for TCA1
+The TCA will be administered in Week 10, in your scheduled workshop session. 
+
+✅ LO2: Correctly define programming concepts.
+
 
 # Marking Criteria for TCA1 
 
