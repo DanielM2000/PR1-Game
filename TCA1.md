@@ -8,7 +8,7 @@ The TCA will consist of 20 multiple choice questions (MCQs).
 
 # Marking Criteria for TCA1 
 
-## Outstanding (A)
+### Outstanding (A)
 The submitted work indicates that a student has an outstanding ability to define foundational programming concepts. Such work will have correctly answered at least 16 out of the 20 questions.   
 **Excellent (A) **- The submitted work indicates that a student has an excellent ability to define foundational programming concepts. Such work will have correctly answered at least 14 out of the 20 questions.   
 **Very Good (B)** - The submitted work indicates that a student has a very good ability to define foundational programming concepts. Such work will have correctly answered at least 12 out of the 20 questions.   
