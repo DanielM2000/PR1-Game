@@ -13,8 +13,8 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 | 08 | 14 Nov | GF-Breakout | Breakout Workshop | 
 | 09 | 21 Nov | TCA Revision: QUIZ | Workshop |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
-| 11 | 05 Dec | TCA1 FEEDBACK + GF/BlueJ Game Demo (Zuul?) | PR1 Workshop |  
-| 12 | 12 Dec | PyGame Demo? + Workshop | PR1 Workshop | 
+| 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
+| 12 | 12 Dec | PyGame Demo | PR1 Workshop | 
 | **3** | **Weeks** | **CHRISTMAS VACATION** | **CHRISTMAS VACATION** | 
 | T13/U16 | 09 Jan | PR1 Game Walkthrough | PR1 Workshop |  
 | T14/U17 | 16 Jan | PR1 Game Walkthrough  | PR1 Workshop |
