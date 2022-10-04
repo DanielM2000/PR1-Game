@@ -1,5 +1,29 @@
 # Assessment Brief for CW1 
-a
+
+Your task is to develop a basic console application that will emulate the main features of a music streaming service such as Spotify or Apple Music. You should code a basic application that is able to store a list of song objects. Each song object should be able to store the artist’s name, the song title and the current number of times the song has been played.  
+  
+Your application should have the following features:
+1.	Add a new song to the list of songs
+2.	Remove a new song from the list of songs
+3.	Print a list of all the songs stored
+4.	Print a list of songs over a given number of plays  
+ 
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40"><p class="MsoNormal" style="margin: 0cm 0cm 8pt; line-height: 15.693334px; font-size: 11pt; font-family: Arial, sans-serif; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="font-family: Calibri, sans-serif; color: black;">The data below is intended to be an example of values for song name, artist name and play count.<span class="Apple-converted-space"> </span><b>However, for your submission, you must add your own song data. You must not copy the values below.<span class="Apple-converted-space"> </span></b>You should add a<span class="Apple-converted-space"> </span><b>minimum of</b><span class="Apple-converted-space"> </span><b>ten songs, featuring the song name, artist name and play count.<span class="Apple-converted-space"> </span></b><o:p></o:p></span></p><p class="MsoNormal" style="margin: 0cm 0cm 8pt; line-height: 15.693334px; font-size: 11pt; font-family: Arial, sans-serif; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="font-family: Calibri, sans-serif; color: black;"><o:p> </o:p></span></p>
+
+Song name | Artist name | Play count
+-- | -- | --
+Beautiful | Anne-Marie | 863,015
+Bad Habits | Ed Sheeran | 127,191,452
+Halo | Beyonce | 991,888,598
+Clash | Dave (feat. Stormzy) | 7,070,513
+It Gets Better | Swedish House Mafia | 7,563,930
+
+<p class="MsoNormal" style="margin: 0cm 0cm 8pt; line-height: 15.693334px; font-size: 11pt; font-family: Arial, sans-serif; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="font-family: Calibri, sans-serif;"><o:p> </o:p></span></p></html>
+
+   
 
 ✅ LO1: Design, implement and test programs to solve simple problems.
 
