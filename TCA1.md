@@ -18,7 +18,7 @@ The submitted work indicates that a student has a very good ability to define fo
 The submitted work indicates that a student has a good ability to define foundational programming concepts. Such work will have correctly answered at least 10 out of the 20 questions.   
 ### Satisfactory (D) 
 The submitted work indicates that a student has a satisfactory ability to define foundational programming concepts. Such work will have correctly answered at least 8 out of the 20 questions.   
-### Below Required Standard (F)
+### Below Required Standard (E)
 The submitted work indicates that a student has not displayed the ability to define foundational programming concepts. Such work will have correctly answered at least 7 out of the 20 questions.   
 ### Not Successful (F)
 The submitted work indicates that a student has not displayed the ability to define foundational programming concepts. Such work will have correctly answered less than 7 out of the 20 questions.  
