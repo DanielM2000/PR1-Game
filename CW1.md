@@ -1,4 +1,4 @@
-# Assessment Brief for CW1 
+# CW1 Assessment Brief 
 
 Your task is to develop a basic console application that will emulate the main features of a music streaming service such as Spotify or Apple Music. You should code a basic application that is able to store a list of song objects. Each song object should be able to store the artist’s name, the song title and the current number of times the song has been played.  
   
