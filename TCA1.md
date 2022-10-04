@@ -1,7 +1,8 @@
 # Assessment Instructions for TCA1
 The TCA will be administered in Week 10, in your scheduled workshop session. 
 You must attend this TCA **in-person**, in the timetabled room. 
-The TCA will consist of 20 multiple choice questions (MCQs).
+The TCA will consist of 20 multiple choice questions (MCQs) and you need to select the right answer to gain the marks.
+The 20 questions are worth 5% each.
 
 ✅ LO2: Correctly define programming concepts.
 
