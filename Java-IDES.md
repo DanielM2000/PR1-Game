@@ -1,3 +1,7 @@
+# Learning Java
+[Intoruction to Java Programming (2 million views)](https://www.youtube.com/watch?v=GoXwIVyNvX0&ab_channel=freeCodeCamp.org)    
+[Beginners Guide to Java (8 million views)](https://www.youtube.com/watch?v=eIrMbAQSU34&t=205s&ab_channel=ProgrammingwithMosh)
+
 # The Best Java IDEs for 2022
 Visual Studio Code can be used to develop applications in Java and many other languages.
 There are also three main professional IDEs (Integrated Development Environments) specifically for Java:-
