@@ -13,5 +13,5 @@ This example is based on a Super Mario game which involved a pyramid created fro
 ## Possible Help
 This example is based on an exercise used by Harvard University in its CS50 Online Course.
 
-[Code Walkthrough - Simple Version]()     
-[Code Walkthrough - Full Version]()
+[Code Walkthrough - Simple Version](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)     
+[Code Walkthrough - Full Version](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
