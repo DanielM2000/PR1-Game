@@ -10,4 +10,4 @@
 ![Breakout Start](https://github.com/BNU-CO452/Java-Apps/blob/main/images/Breakout%200.png)
 
 ## Complete Breakout
-![Breakout Complete]()
+![Breakout Complete](https://github.com/BNU-CO452/Java-Apps/blob/main/images/Breakout%201.png)
