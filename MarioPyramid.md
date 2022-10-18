@@ -8,4 +8,10 @@ This example is based on a Super Mario game which involved a pyramid created fro
 2. If the user enters a size less than 1 and greate than 8 ask the user again.
 3. Build a two sided pyramid as shown below
 
-![Expected Output]()
+![Expected Output](https://github.com/BNU-CO452/Java-Apps/blob/main/images/Mario%2002.png)
+
+## Possible Help
+This example is based on an exercise used by Harvard University in its CS50 Online Course.
+
+[Code Walkthrough - Simple Version]()     
+[Code Walkthrough - Full Version]()
