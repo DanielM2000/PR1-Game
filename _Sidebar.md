@@ -11,7 +11,7 @@
 [Week 4 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W4-VSC-Collection-Exercises)    
 [Week 5 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W5-VSC-Consolidation-Exercises)
 #### Games
-[GF-Pyramid]()    
+[GF-Pyramid](https://github.com/BNU-CO452/Java-Apps/wiki/MarioPyramid)    
 [GF-Crab Game]()    
 [GF-Breakout]()     
 [Python Games](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)       
