@@ -12,7 +12,7 @@
 [Week 5 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W5-VSC-Consolidation-Exercises)
 #### Games
 [GF-Pyramid](https://github.com/BNU-CO452/Java-Apps/wiki/MarioPyramid)    
-[GF-Crab Game]()    
+[GF-Crab Game](https://github.com/BNU-CO452/Java-Apps/wiki/Crab-Game)    
 [GF-Breakout]()     
 [Python Games](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)       
 [Zuul Game]()
