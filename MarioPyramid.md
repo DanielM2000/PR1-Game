@@ -1,5 +1,5 @@
 # Build a Pyramid
-This example is based on a Super Mario game which involved a pyramid created from blocks.
+This example is based on a Super Mario game (1981) which involved a pyramid created from blocks.
 
 ![Super Mario Bros](https://github.com/BNU-CO452/Java-Apps/blob/main/images/Mario%2001.png)
 
