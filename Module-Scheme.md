@@ -11,7 +11,7 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 | 06 | 31 Oct | No Lecture | Workshop for **CW1 DUE MON** |  
 | 07 | 07 Nov | Greenfoot Build Pyramid | Pyramid Workshop |
 | 08 | 14 Nov | Greenfoot  Crab Game | Crab Game Workshop | 
-| 09 | 21 Nov | Greenfoot Breakout Game | TCA Revision: QUIZ &<br/>Breakout Workshop |  
+| 09 | 21 Nov | Greenfoot Breakout Game | Breakout Workshop <br/>TCA Revision: QUIZ  |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
 | 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
 | 12 | 12 Dec | PyGame Demo | PR1 Workshop | 
