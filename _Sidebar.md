@@ -15,7 +15,7 @@
 [GF-Crab Game](https://github.com/BNU-CO452/Java-Apps/wiki/Crab-Game)    
 [GF-Breakout](https://github.com/BNU-CO452/Java-Apps/wiki/Breakout)     
 [Python Games](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)       
-[Zuul Game]()
+[Zuul Game](https://github.com/BNU-CO452/Java-Apps/wiki/Zuul-Game)
 #### Resources
 [Java IDEs](https://github.com/BNU-CO452/Java-Apps/wiki/Java-IDES)      
 [Git-and-Github](https://github.com/BNU-CO452/Java-Apps/wiki/Git-and-Github)     
