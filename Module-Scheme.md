@@ -4,7 +4,7 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 | Week | Week Begin | Lecture (1hr) | Workshop (2hr) |
 | :---: | :---: | ---- | ---- |
 | 01 | 26 Sep | [VSC-Basics: Main & IO](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%201%20-%20Basics%2C%20Main%2C%20IO.pdf) | Setting up software and GitHub + Week 1 Exercises |  
-| 02 | 03 Oct | VSC-Conditionals: Selection & Iteration | Week 2 Exercises |
+| 02 | 03 Oct | [Conditionals: Selection & Iteration](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%202%20-%20Selection%20and%20Iteration.pdf) | Week 2 Exercises |
 | 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | Week 3 Exercises |
 | 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | Week 4 Exercises |
 | 05 | 24 Oct | Revision Quiz and Workshop | Week 5 Exercises | 
