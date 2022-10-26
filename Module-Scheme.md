@@ -8,9 +8,9 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 | 03 | 10 Oct | VSC-OOP: Classes, Objects, Constructors | Week 3 Exercises |
 | 04 | 17 Oct | VSC-Collections: Lists, ArrayLists, Arrays | Week 4 Exercises |
 | 05 | 24 Oct | Revision Quiz and Workshop | Week 5 Exercises | 
-| 06 | 31 Oct | GF-Pyramid | Pyramid Workshop + **CW1 DUE** |  
-| 07 | 07 Nov | GF-Crab | Crab Workshop |
-| 08 | 14 Nov | GF-Breakout | Breakout Workshop | 
+| 06 | 31 Oct | Greenfoot Pyramid | Pyramid Workshop + **CW1 DUE** |  
+| 07 | 07 Nov | Greenfoot Crab Game| Crab Workshop |
+| 08 | 14 Nov | Greenfoot Breakout Game | Breakout Workshop | 
 | 09 | 21 Nov | TCA Revision: QUIZ | Workshop |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
 | 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
