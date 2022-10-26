@@ -8,10 +8,10 @@ Here is the indicative module scheme for CO452 Programming Concepts:
 | 03 | 10 Oct | [Classes, Objects, Constructors](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%203%20-%20Classes%20and%20Objects.pdf) | [Week 3 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W3-VSC-Classes-and-Objects-Exercises) |
 | 04 | 17 Oct | [Collections: Lists, ArrayLists, Arrays](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%204%20-%20Collections%2C%20ArrayList%20and%20Generics.pdf) | [Week 4 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W4-VSC-Collection-Exercises) |
 | 05 | 24 Oct | [Consolidation Lecture](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%205%20-%20Revision_Consolidation%20Lecture.pdf)<br/>Revision Quiz and Workshop | [Week 5 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W5-VSC-Consolidation-Exercises) | 
-| 06 | 31 Oct | Greenfoot Pyramid | Pyramid Workshop + **CW1 DUE** |  
-| 07 | 07 Nov | Greenfoot Crab Game| Crab Workshop |
-| 08 | 14 Nov | Greenfoot Breakout Game | Breakout Workshop | 
-| 09 | 21 Nov | TCA Revision: QUIZ | Workshop |  
+| 06 | 31 Oct | No Lecture | Workshop  **CW1 DUE MON** |  
+| 07 | 07 Nov | Greenfoot Crab Game| Pyramid Workshop |
+| 08 | 14 Nov | Greenfoot Breakout Game | Crab Game Workshop | 
+| 09 | 21 Nov | TCA Revision: QUIZ | Breakout Workshop |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
 | 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
 | 12 | 12 Dec | PyGame Demo | PR1 Workshop | 
