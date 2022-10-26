@@ -17,7 +17,7 @@
 | 08 | 14 Nov | Greenfoot  Crab Game | [Crab Game Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Crab-Game) | 
 | 09 | 21 Nov | Greenfoot Breakout Game | [Breakout Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Breakout) <br/>TCA Revision: QUIZ  |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
-| 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
+| 11 | 05 Dec | TCA1 Feedback<br/> [BlueJ Game Demo (Zuul)](https://github.com/BNU-CO452/Java-Apps/wiki/Zuul-Game) | PR1 Workshop |  
 | 12 | 12 Dec | PyGame Demo | [Python Resources](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)<br/>PR1 Workshop | 
 | **3** | **Weeks** | **CHRISTMAS VACATION** | **CHRISTMAS VACATION** | 
 | T13/U16 | 09 Jan | PR1 Game Walkthrough | PR1 Workshop |  
