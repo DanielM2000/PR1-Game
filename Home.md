@@ -14,7 +14,7 @@
 | 05 | 24 Oct | [Consolidation Lecture](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/CO452%20Lecture%205%20-%20Revision_Consolidation%20Lecture.pdf)<br/>Revision Quiz and Workshop | [Week 5 Exercises](https://github.com/BNU-CO452/Java-Apps/wiki/W5-VSC-Consolidation-Exercises) | 
 | 06 | 31 Oct | No Lecture | Workshop for **CW1 DUE MON 2pm** |  
 | 07 | 07 Nov | [Greenfoot Build Pyramid]() | [Pyramid Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/MarioPyramid) |
-| 08 | 14 Nov | Greenfoot  Crab Game | Crab Game Workshop | 
+| 08 | 14 Nov | Greenfoot  Crab Game | [Crab Game Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Crab-Game) | 
 | 09 | 21 Nov | Greenfoot Breakout Game | Breakout Workshop <br/>TCA Revision: QUIZ  |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
 | 11 | 05 Dec | TCA1 Feedback + BlueJ Game Demo (Zuul) | PR1 Workshop |  
