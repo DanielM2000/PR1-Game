@@ -1,6 +1,7 @@
 # How to Use Git and GitHub
 ## GitHub
-[Video: What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
+[Video: What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)     
+[Friday 03](https://github.com/DerekPeacock/Friday03)
 
 ## GitHub Desktop
 GitHub Desktop is the recommended way of using Git without having to use the command line.  There are however many other ways of using Git, including using it directly with command line actions.    
