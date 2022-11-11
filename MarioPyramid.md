@@ -15,3 +15,5 @@ This example is based on an exercise used by Harvard University in its CS50 Onli
 
 [Code Walkthrough - Simple Version](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)     
 [Code Walkthrough - Full Version](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
+
+[Greenfoot Pyramid Power Point](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/Greenfoot%20Worlds%20Week%207.pdf)
