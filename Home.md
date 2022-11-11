@@ -15,7 +15,7 @@
 | 06 | 31 Oct | No Lecture | Workshop for **CW1 DUE MON 2pm** |  
 | 07 | 07 Nov | [Greenfoot Build Pyramid](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/Greenfoot%20Worlds%20Week%207.pdf) | [Pyramid Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/MarioPyramid) |
 | 08 | 14 Nov | [Greenfoot  Crab Game](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/Greenfoot%20Games%20Week%208.pdf) | [Crab Game Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Crab-Game) | 
-| 09 | 21 Nov | Greenfoot Breakout Game | [Breakout Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Breakout) <br/>TCA Revision: QUIZ  |  
+| 09 | 21 Nov | [Greenfoot Breakout Game](https://github.com/BNU-CO452/Java-Apps/blob/main/docs/Greenfoot%20Breakout%20Week%209.pdf) | [Breakout Workshop](https://github.com/BNU-CO452/Java-Apps/wiki/Breakout) <br/>TCA Revision: QUIZ  |  
 | 10 | 28 Nov | No lecture | **TCA1** | 
 | 11 | 05 Dec | TCA1 Feedback<br/> [BlueJ Game Demo (Zuul)](https://github.com/BNU-CO452/Java-Apps/wiki/Zuul-Game) | PR1 Workshop |  
 | 12 | 12 Dec | PyGame Demo | [Python Resources](https://github.com/BNU-CO452/Java-Apps/wiki/PyGames)<br/>PR1 Workshop | 
