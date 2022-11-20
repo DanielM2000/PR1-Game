@@ -1,4 +1,5 @@
 # Code Quality
+[Why are programmers so Slow](https://www.youtube.com/watch?v=G6HyEeEcB-w&ab_channel=GiveyourBrainLimitlessSuperpowerLearningCode)
 ## Importance of Quality
 The quality of any code written in the real world is crucial to being able to reduce the number of bugs and to ensure that the software is going to be easy to extend and adapt in the future.  It is quite common where managers make deadlines too tight and code quality suffers, that the application becomes so fragile that it has to be completely re-written after a few years of modifications.
 ## Common Quality Issues
