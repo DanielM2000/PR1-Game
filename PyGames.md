@@ -32,4 +32,5 @@ fit in well with the game requirements for App05.  So if you want to learn Pytho
 
 The following website is full of tips on using Python in the best way   
    
-[Python Best Practices Tips and Tricks](https://medium.com/pythonland/30-python-best-practices-tips-and-tricks-19172564f9c)
+[Python Best Practices Tips and Tricks](https://medium.com/pythonland/30-python-best-practices-tips-and-tricks-19172564f9c)    
+[Why is Python so Slow](https://www.youtube.com/watch?v=x2IQP8iug3c&ab_channel=TechWithTim)
