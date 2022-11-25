@@ -1,4 +1,6 @@
 # Breakout Game
+## Description
+In this game the player must keep a ball bouncing around the screen in order to collide with all the bricks in the wall.  If the ball hits a brick it is removed, if the ball goes past the paddle the game ends.
 ## User Requirements
 1. The player can move the paddle up or down
 2. A ball will move around the court and bounce off the walls in a realistic way
