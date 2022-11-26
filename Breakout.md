@@ -9,6 +9,11 @@ In this game the player must keep a ball bouncing around the screen in order to 
 5. If the player removes all the blocks they win the game.
 6. After each time the game is won an extra column of blocks is added to a maximum of 3 colunms
 
+## Proposed Development
+* IDE: Greenfoot 
+* Programming Language: Java
+* Game Engine: Greenfoot
+
 ## Start Breakout
 ![Breakout Start](https://github.com/BNU-CO452/Java-Apps/blob/main/images/Breakout%200.png)
 
