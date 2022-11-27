@@ -1,4 +1,6 @@
 # Crab Game Requirements
+* Student Name 1
+* Student Name 2
 ## Description
 In this game the crab is moved around by the player in order to eat as all the worms whilst at the same time avoiding being eaten by the lobster.
 
